@@ -1,5 +1,5 @@
 
-# Dataeng_Intern_customer_order_python
+# Dataeng_customer_order_python
 
 Design and implement a data engineering solution that imports customer and order data from CSV files into a MySQL database, and subsequently analyze this data using a Streamlit web application.
 
